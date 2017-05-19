@@ -37,6 +37,6 @@
 	
 	<!--Colocar icono app-->
 	
- <icon src="res/android/mdpi1.png"/>
+ <icon src="res/android/mdpi.png"/>
  
  </widget>
